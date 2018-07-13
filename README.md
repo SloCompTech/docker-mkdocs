@@ -24,6 +24,8 @@ It it simple docker which provides tools to easly build MkDocs docs.
 - [Permalinks](https://squidfunk.github.io/mkdocs-material/extensions/permalinks/)
 - [PyMdown](https://squidfunk.github.io/mkdocs-material/extensions/pymdown/) (Highlighting, tasklist, collapse boxes)
 
+Documentation for built-in extensions can be found [here](https://python-markdown.github.io/extensions/)
+
 ## Example build commands
 ```bash
 mkdocs build
