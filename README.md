@@ -1,5 +1,7 @@
 # MkDocs
 
+[![Build Status](https://travis-ci.org/SloCompTech/docker-mkdocs.svg?branch=master)](https://travis-ci.org/SloCompTech/docker-mkdocs)
+
 ## What is it ?
 It it simple docker which provides tools to easly build MkDocs docs.
 
