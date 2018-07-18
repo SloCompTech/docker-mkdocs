@@ -29,11 +29,13 @@ It it simple docker which provides tools to easly build MkDocs docs.
 Documentation for built-in extensions can be found [here](https://python-markdown.github.io/extensions/)
 
 ## Example build commands
+
 ```bash
 mkdocs build
 ```
 More available [here](https://www.mkdocs.org/#building-the-site)
 
 ## External documentation
+
 - [MkDocs](https://www.mkdocs.org/#building-the-site)
 - [CI integration](https://gitlab.com/pages/mkdocs/tree/master)
